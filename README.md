@@ -1,7 +1,7 @@
 # Minecraft Java
 A Minecraft clone I'm currently working on using Lightweight Java Game Library and OpenGL. Textures are loaded using Slick2D game library. Works on Windows, Mac, and Linux.
 
-Version 4
+Version 4:
 -Added GUI interface such as crosshair and hotbar
 ![Shiyamcraft Version 4](https://user-images.githubusercontent.com/76540854/147245873-ad82f30a-9945-4547-8b2f-fda35eac7f31.png)
 
