@@ -6,3 +6,7 @@ Version 3
 
 Version 2
 ![Minecraft 2021-12-16 3_37_57 AM](https://user-images.githubusercontent.com/76540854/147244966-4a6d1f8d-4f9f-4107-a0f7-5ff729f1620c.png)
+
+Version 1
+![Shiyamcraft Version 1](https://user-images.githubusercontent.com/76540854/147245684-6742fb5f-395c-4fa3-aa07-a40f88e3f480.png)
+
